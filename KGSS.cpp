@@ -1,4 +1,8 @@
 /**
+ * Tutorial on Segment Tree
+ * https://cp-algorithms.com/data_structures/segment_tree.html
+ * https://www.hackerearth.com/practice/notes/segment-tree-and-lazy-propagation/
+ *
  * Solution using segment tree, for SPOJ KGSS - Maximum Sum
  * Implementation of Segment Tree
  */
